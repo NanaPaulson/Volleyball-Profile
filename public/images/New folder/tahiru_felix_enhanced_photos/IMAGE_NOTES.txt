@@ -1,0 +1,17 @@
+TAHIRU FELIX ENHANCED VOLLEYBALL PHOTOGRAPHS
+
+All files retain the original filenames. Replace matching files in your Next.js public/images directory.
+Edits: light contrast/color enhancement, restrained edge sharpening, and 2x high-quality Lanczos enlargement.
+Important: 2x enlargement improves display dimensions but cannot recreate missing camera detail.
+Original source images should be used if higher-resolution camera originals become available.
+
+image1.jpeg | 828x1121 | 1656x2242 | 719 KB
+Image2.jpeg | 720x1280 | 1440x2560 | 875 KB
+image3.jpeg | 720x1280 | 1440x2560 | 1119 KB
+image4.jpeg | 736x985 | 1472x1970 | 1059 KB
+image5.jpeg | 960x1280 | 1920x2560 | 703 KB
+image6.jpeg | 739x1085 | 1478x2170 | 1107 KB
+image7.jpeg | 824x1191 | 1648x2382 | 916 KB
+image8.jpeg | 754x841 | 1508x1682 | 610 KB
+image9.jpeg | 960x1280 | 1920x2560 | 1198 KB
+image10.jpeg | 720x1280 | 1440x2560 | 845 KB

@@ -14,7 +14,7 @@ export default function Competitions() {
           {competitions.map((competition, index) => (
             <article className="competition-card" key={competition.id} style={{ transitionDelay: `${index * 100}ms` }}>
               <div className="competition-card-top"><Volleyball size={22} aria-hidden="true" /><span>{String(index + 1).padStart(2, "0")}</span></div>
-              <h3>{competition.name}{competition.id === "senior-national" && " — Senior Level"}</h3>
+              <h3>{competition.name}{competition.id === "senior-national" && " - Senior Level"}</h3>
               <p>{competition.category}</p>
             </article>
           ))}
